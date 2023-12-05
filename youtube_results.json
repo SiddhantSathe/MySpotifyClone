@@ -1,0 +1,766 @@
+[
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On, I'm Comin'",
+    "album": {
+      "name": "Back To Front",
+      "id": "MPREb_WPEF9Ws0Gww"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "akXE_E2fObE",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:04",
+    "year": null,
+    "artists": [
+      {
+        "name": "The Temptations",
+        "id": "UCwWtKZD4xNVpEHndNxYu51g"
+      }
+    ],
+    "duration_seconds": 184,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/5EjwWeXGxyYD5Vvz5ixtD_Me7GhwyLLrOo8aMlHHQrN1AzZHsNjS51-5Li_wsVCTur7-2WY6VugV5pPJ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/5EjwWeXGxyYD5Vvz5ixtD_Me7GhwyLLrOo8aMlHHQrN1AzZHsNjS51-5Li_wsVCTur7-2WY6VugV5pPJ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On, I'm Coming",
+    "album": {
+      "name": "Sweat 'N' Soul: An Anthology [1965-1971]",
+      "id": "MPREb_49u17b4psY2"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "6JElrEbAcwY",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:36",
+    "year": null,
+    "artists": [
+      {
+        "name": "Sam & Dave",
+        "id": "UC0jVmnViSoUHl_XwocssdPg"
+      }
+    ],
+    "duration_seconds": 156,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/ZSAt__N0hxBc5HZEcARLBAOatHvRQ6I3TLM9O8B1Rvs2p35hUQvdSw1MH62_nqGnNMlyMGOrVJHEQ3qMIg=w60-h60-s-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ZSAt__N0hxBc5HZEcARLBAOatHvRQ6I3TLM9O8B1Rvs2p35hUQvdSw1MH62_nqGnNMlyMGOrVJHEQ3qMIg=w120-h120-s-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baby Hold on to Me",
+    "album": {
+      "name": "The Best Of Gerald Levert",
+      "id": "MPREb_I44wZWh7jv8"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "cFsQu6c-nBI",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "5:42",
+    "year": null,
+    "artists": [
+      {
+        "name": "Gerald Levert",
+        "id": "UC_EhNuOfmXogymt4DkVqGWQ"
+      }
+    ],
+    "duration_seconds": 342,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/JJohHL4OFBKfhjm8DDIaDVr38fFccZ18pC5O7rbJIbyZLZvRnYs3vvhgLpL_R_VCcSK1NOKlt10GFB8=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/JJohHL4OFBKfhjm8DDIaDVr38fFccZ18pC5O7rbJIbyZLZvRnYs3vvhgLpL_R_VCcSK1NOKlt10GFB8=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold on, I'm Comin'",
+    "album": {
+      "name": "Hold on I'm Comin'",
+      "id": "MPREb_BWC0VlOCSsc"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "hTlBWE4-Zq4",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:33",
+    "year": null,
+    "artists": [
+      {
+        "name": "Sam and Dave",
+        "id": "UC0jVmnViSoUHl_XwocssdPg"
+      }
+    ],
+    "duration_seconds": 153,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/DyIGPis0wDOFsUUl44Rky8lkSpDTIl1A_4D-0wb0zUWj_i-Gk1Ch32xVzSzUWRsI0m3hssXCTf-DN3I80w=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/DyIGPis0wDOFsUUl44Rky8lkSpDTIl1A_4D-0wb0zUWj_i-Gk1Ch32xVzSzUWRsI0m3hssXCTf-DN3I80w=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I'm Comin'",
+    "album": {
+      "name": "Love All the Hurt Away (Expanded Edition)",
+      "id": "MPREb_PY2FcUm6eXk"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "P-_ApBSywSU",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "5:15",
+    "year": null,
+    "artists": [
+      {
+        "name": "Aretha Franklin",
+        "id": "UCW02f_MjH8n1uMZhSds4mQQ"
+      }
+    ],
+    "duration_seconds": 315,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/ZKR6em6oOxtsxSvFl-TkZgS-3SLSPAXCRjiGVfpXsrujys_H5JQcyYrZ7N8-laJDnJFolIFWa_lOVVE=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ZKR6em6oOxtsxSvFl-TkZgS-3SLSPAXCRjiGVfpXsrujys_H5JQcyYrZ7N8-laJDnJFolIFWa_lOVVE=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I'm Coming",
+    "album": {
+      "name": "13 Smash Hits",
+      "id": "MPREb_WWTcSOSMmff"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "uJ71m-orzYk",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:22",
+    "year": null,
+    "artists": [
+      {
+        "name": "Tom Jones",
+        "id": "UCmzvv3FCxR-2GJwEAY2XHEQ"
+      }
+    ],
+    "duration_seconds": 202,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/1_jwJSrlAC2YKCEz3JD_17WXsLCdAcClpO56tUhtg__LfAt7s149rBDfXB7IBBbUsT2skKPZ8uc5FP4p=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/1_jwJSrlAC2YKCEz3JD_17WXsLCdAcClpO56tUhtg__LfAt7s149rBDfXB7IBBbUsT2skKPZ8uc5FP4p=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Papa Was A Rollin' Stone",
+    "album": {
+      "name": "All Directions",
+      "id": "MPREb_SaLHVAWTrXb"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "71l85z2bXAs",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "11:45",
+    "year": null,
+    "artists": [
+      {
+        "name": "The Temptations",
+        "id": "UCwWtKZD4xNVpEHndNxYu51g"
+      }
+    ],
+    "duration_seconds": 705,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/-8wo49LlKIXmGlQB39hay0a0kEp4EJF7NuIZwmiIk3qISHeGK4vZEGg23r0cB36EeDdPL5kD9rEUI-o=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/-8wo49LlKIXmGlQB39hay0a0kEp4EJF7NuIZwmiIk3qISHeGK4vZEGg23r0cB36EeDdPL5kD9rEUI-o=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On, I'm Coming",
+    "album": {
+      "name": "Timeless (The Classics)",
+      "id": "MPREb_z9wBXG6cwnn"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "Q12dqUmQ7Nc",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:14",
+    "year": null,
+    "artists": [
+      {
+        "name": "Michael Bolton",
+        "id": "UC2OYAQ8gkHxDyeV8SMTNdgw"
+      }
+    ],
+    "duration_seconds": 194,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/FfpR9ASlFc9j4EL5dc7qTJ-N8SLvf2YqvN6s9x87J9g5NIv4v1svNBQT8grRoxke0IshOTasYr8jpJQI=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/FfpR9ASlFc9j4EL5dc7qTJ-N8SLvf2YqvN6s9x87J9g5NIv4v1svNBQT8grRoxke0IshOTasYr8jpJQI=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I'm Comin' (Single Version)",
+    "album": {
+      "name": "The Universal Masters Collection",
+      "id": "MPREb_HH6g9wJ6JiC"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "hQiYyBA452s",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:35",
+    "year": null,
+    "artists": [
+      {
+        "name": "The Righteous Brothers",
+        "id": "UCMde60QYKofo0kWbCIDSnWQ"
+      }
+    ],
+    "duration_seconds": 155,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/WcwbWpgJI1qVeHVF7mQzibIBXDS43O6fnyOj_tm3yUvc6QMAS9oREelQEYa7-9gLb1lInW1Z_dfMK8wA=w60-h60-s-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/WcwbWpgJI1qVeHVF7mQzibIBXDS43O6fnyOj_tm3yUvc6QMAS9oREelQEYa7-9gLb1lInW1Z_dfMK8wA=w120-h120-s-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold on I'm Coming (Recorded Live in London '99)",
+    "album": {
+      "name": "Twenty Four Seven (Expanded Version)",
+      "id": "MPREb_AEriljcF6qn"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "hIRRovr9EWI",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:02",
+    "year": null,
+    "artists": [
+      {
+        "name": "Tina Turner",
+        "id": "UC3XcDooUnwiaiTPlICV6-ig"
+      }
+    ],
+    "duration_seconds": 182,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/SPVrsWkig2cClHk_ZebTwuQWKEoyvudIBNP6wsKMIY8yiuIqVYsNwlvSTjA4AVmAT6C5uJlJHrn24eo=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/SPVrsWkig2cClHk_ZebTwuQWKEoyvudIBNP6wsKMIY8yiuIqVYsNwlvSTjA4AVmAT6C5uJlJHrn24eo=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I'm Coming",
+    "album": {
+      "name": "The Best Of Romance 1960-1969",
+      "id": "MPREb_QCzWjxHp8GX"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "r3yt2xfW7Yg",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:35",
+    "year": null,
+    "artists": [
+      {
+        "name": "Sam & Dave",
+        "id": "UC0jVmnViSoUHl_XwocssdPg"
+      }
+    ],
+    "duration_seconds": 155,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/B7i8Bc9YEDK-kwxXy73ud9DyJctQdQYJSks9cusvyhagxXM0YeiNEh_blT0X1IWFDjBWeP-G4XLYKp8d=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/B7i8Bc9YEDK-kwxXy73ud9DyJctQdQYJSks9cusvyhagxXM0YeiNEh_blT0X1IWFDjBWeP-G4XLYKp8d=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I'm Coming",
+    "album": {
+      "name": "Soul Men - [The Dave Cash Collection]",
+      "id": "MPREb_iPLGnEGHzsV"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "XMTRVADpzeM",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:37",
+    "year": null,
+    "artists": [
+      {
+        "name": "Sam & Dave",
+        "id": "UC0jVmnViSoUHl_XwocssdPg"
+      }
+    ],
+    "duration_seconds": 157,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/yoFvLDVXFZqxF4Vjm8QQZ5zC8IB_zMMacnDFrWgPkN1P7ybNKe11t8Xcmb03yq2ueMecVfZEEN7iKBhOeQ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/yoFvLDVXFZqxF4Vjm8QQZ5zC8IB_zMMacnDFrWgPkN1P7ybNKe11t8Xcmb03yq2ueMecVfZEEN7iKBhOeQ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold on I' M Coming",
+    "album": {
+      "name": "The World of the 50' S & 60' S, Let' S Dance",
+      "id": "MPREb_2bOumAYQMoz"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "iCiSW7732ZA",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:38",
+    "year": null,
+    "artists": [
+      {
+        "name": "Sam & Dave",
+        "id": "UC0jVmnViSoUHl_XwocssdPg"
+      }
+    ],
+    "duration_seconds": 158,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/3ZtwKoDTquIQgrpewq2t-yvLsyoxrjPGoledu6XHJ9ViuXq21bvRs4Oad-kueZ_RH5jJf5_tAoPu-vA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/3ZtwKoDTquIQgrpewq2t-yvLsyoxrjPGoledu6XHJ9ViuXq21bvRs4Oad-kueZ_RH5jJf5_tAoPu-vA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold on I'm Coming",
+    "album": {
+      "name": "Soul",
+      "id": "MPREb_sj2yc9IKeNw"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "0nJcuUNWmnY",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:23",
+    "year": null,
+    "artists": [
+      {
+        "name": "Sam & Dave",
+        "id": "UC0jVmnViSoUHl_XwocssdPg"
+      }
+    ],
+    "duration_seconds": 143,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/cIYRV1iWrJkdSxib6B62p56_wkA8vv4DCTZxNazJ2RkicZ33u7BxJ_pjs1-SUUcDQtr9Q3nqujaxxYvh=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/cIYRV1iWrJkdSxib6B62p56_wkA8vv4DCTZxNazJ2RkicZ33u7BxJ_pjs1-SUUcDQtr9Q3nqujaxxYvh=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I'm Coming",
+    "album": {
+      "name": "Soul Man",
+      "id": "MPREb_YhIeZUYkOup"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "4Rd0bW_2tdg",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:05",
+    "year": null,
+    "artists": [
+      {
+        "name": "Luca Ronka",
+        "id": "UCdobNgtm0GeM7igfspu_jgw"
+      }
+    ],
+    "duration_seconds": 185,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/9mbl7SyRy5QQLSp8RKqb8XkglDyGBDSqlMkeoKJpm4MFKsNuMyPxoWvMpuOC84YNFiRciqmYrY8hnwR-=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/9mbl7SyRy5QQLSp8RKqb8XkglDyGBDSqlMkeoKJpm4MFKsNuMyPxoWvMpuOC84YNFiRciqmYrY8hnwR-=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On, I'm Comin'",
+    "album": {
+      "name": "Live! At Caesar's Palace",
+      "id": "MPREb_4gBQdtjEi8d"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "1y5X_Z9d494",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:38",
+    "year": null,
+    "artists": [
+      {
+        "name": "Checkmates Ltd.",
+        "id": "UClKcmazjg4GiLxZmXa8g3OA"
+      }
+    ],
+    "duration_seconds": 158,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/Pjnpb5eili-kcSKZ5J9ClYWpm9laGdxZ0p5UZsyG23oIo0LuSy_G-ZQK4pnVe_3RaasEKarFuwMN9ldUjA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Pjnpb5eili-kcSKZ5J9ClYWpm9laGdxZ0p5UZsyG23oIo0LuSy_G-ZQK4pnVe_3RaasEKarFuwMN9ldUjA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I'm Coming",
+    "album": {
+      "name": "3. Hrvatski Jazz Sabor",
+      "id": "MPREb_Hz9krNwn7qn"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "_9OeXiH2JRA",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:29",
+    "year": null,
+    "artists": [
+      {
+        "name": "Soulfingers",
+        "id": "UCWjX7pdnf5Mh9DqSQJu6FPA"
+      }
+    ],
+    "duration_seconds": 149,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/efapO9hNDS2utJZiNuxL6j568VKd3TQ42mad0OKLq1Qf07Ce-O-qHr1Jcw30fPdGVb9Z7h5csUqERmO9=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/efapO9hNDS2utJZiNuxL6j568VKd3TQ42mad0OKLq1Qf07Ce-O-qHr1Jcw30fPdGVb9Z7h5csUqERmO9=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I\u2019m Coming",
+    "album": {
+      "name": "Sweet Consolation 1966",
+      "id": "MPREb_jGhdCCiRsz4"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "SLLVZaJkDfI",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:35",
+    "year": null,
+    "artists": [
+      {
+        "name": "Python Lee Jackson",
+        "id": "UCFNi2Dde6aYD90S7cHNqMhg"
+      }
+    ],
+    "duration_seconds": 155,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/gDefAhDiqkf_PG55SGu-PXjdAAc0U1jSvKuEgyOM55cON3gxvna3KqMsfw7hNKgZnsLaPywk6ipClYho=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gDefAhDiqkf_PG55SGu-PXjdAAc0U1jSvKuEgyOM55cON3gxvna3KqMsfw7hNKgZnsLaPywk6ipClYho=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold On I'm Coming",
+    "album": {
+      "name": "The Best World Dance Music Vol. 2",
+      "id": "MPREb_enu81rX3R9Y"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "x-I4GOmDOto",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:54",
+    "year": null,
+    "artists": [
+      {
+        "name": "Sam",
+        "id": "UCCNe9B8jqWlhRm2_uhXdEgA"
+      },
+      {
+        "name": "Dave",
+        "id": "UCs9k5CD2yclHNUNpmd-S3Yw"
+      }
+    ],
+    "duration_seconds": 174,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/c5ZWhMKV5xK-8cFJcmOx9J0pKDuu4TaZ7EZIe4MD5sDfjQZYtPEHCzrgf4OWVL1B1D8atAt1Iof871TvJw=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/c5ZWhMKV5xK-8cFJcmOx9J0pKDuu4TaZ7EZIe4MD5sDfjQZYtPEHCzrgf4OWVL1B1D8atAt1Iof871TvJw=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Hold on I'm Coming",
+    "album": {
+      "name": "Greatest Hits",
+      "id": "MPREb_5S2dTI6kdZC"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "an6rhJOYhi0",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:34",
+    "year": null,
+    "artists": [
+      {
+        "name": "Precious Wilson",
+        "id": "UCfj0z7SFQfp35ACRWU83i3Q"
+      }
+    ],
+    "duration_seconds": 214,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/nU_voJR6gRTP9mEEQqWqxEhCMJW0Reb88suKqftQZIgTcQ75Y194VL9jWlsc2Tt5_54tiE_l2StEo6U=w60-h60-s-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/nU_voJR6gRTP9mEEQqWqxEhCMJW0Reb88suKqftQZIgTcQ75Y194VL9jWlsc2Tt5_54tiE_l2StEo6U=w120-h120-s-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  }
+]
